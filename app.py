@@ -6,7 +6,7 @@ menu_inicial = Tk()
 # colocando uma nome para essa tela
 menu_inicial.title('Tkinter learn')
 
-# colocando centralizado 
+# colocando centralizado
 largura = 700
 altura = 400
 largura_screen = menu_inicial.winfo_screenwidth()
